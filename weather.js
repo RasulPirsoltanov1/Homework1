@@ -1,6 +1,6 @@
-
+// Task 1:
 // - Havanın temperaturu verilir. Əgər temperatur 15 - dən kiçikdirsə ekrana yazılsın "Hava soyuqdur", 15 - dən böyükdürsə ekrana yazılsın "Hava istidir".
-let weatherTemprature=24;
+let weatherTemprature=14;
 
 
 if(weatherTemprature<15){
