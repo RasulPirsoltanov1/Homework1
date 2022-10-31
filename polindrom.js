@@ -1,6 +1,6 @@
 // 2 - Daxil edilən müsbət tam ədədin palindrom olub-olmamasını yoxlayın
 let n,r,sum=0,temp;    
-n = 122211;
+n = 121;
 temp=n;  
 while (n > 0) {
     r = n % 10;

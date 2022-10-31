@@ -1,4 +1,4 @@
-let a=12;
+let a=2;
 let checker=false;
 for(let i=1;i<a;i++){
     if(a%i==0 && i!=1){
