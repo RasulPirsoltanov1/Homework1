@@ -1,7 +1,7 @@
 // 1 - Verilmiş ədədin ikinin qüvvəti olub olmadığını yoxlayan alqoritm yazın
-let a = 1;
+let a = 12;
 let checker = true;
-if (a == 0 || a == 1) {
+if (a == 0 ) {
     checker = false;
 }
 while (a > 1) {
