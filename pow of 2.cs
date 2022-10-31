@@ -1,8 +1,8 @@
 // 1 - Verilmiş ədədin ikinin qüvvəti olub olmadığını yoxlayan alqoritm yazın
-int a = 1;
+int a = 11;
 bool checker = true;
 
-if (a == 0 || a==1)
+if (a == 0)
 {
     checker=false;
 }
