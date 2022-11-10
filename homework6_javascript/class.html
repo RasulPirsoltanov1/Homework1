@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <input type="text" id="input1" onkeyup="test()">
+    <div id="alert1"></div>
+    <hr>
+    <button onclick="click1()">Click</button>
+    <ul id="list">
+    </ul>
+</body>
+
+</html>
+<script>
+    let words = [];
+    function test() {
+        var value = document.getElementById("input1").value;
+        if (value.trim() == "") {
+            var message = document.getElementById("alert1");
+            message.innerHTML = "bos buraxma";
+            return;
+        }
+        else {
+            var message = document.getElementById("alert1");
+            message.innerHTML = "ela";
+        }
+    }
+    function click1() {
+        var ulElement = document.getElementById("list");
+        var value = document.getElementById("input1").value;
+        if (value.trim() == "") {
+            return;
+        }
+        for (let i = 0; i < words.length; i++) {
+            if (words[i].trim().toLowerCase() == value.trim().toLowerCase()) {
+                var message = document.getElementById("alert1");
+                message.innerHTML = "eynisini yazma";
+                return;
+            }
+        }
+        words.push(value)
+        console.log(words);
+        ulElement.innerHTML += `<li>${value}</li>`;
+    }
+
+
+</script>

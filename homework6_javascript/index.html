@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    label {
+      margin-right: 30px;
+    }
+
+    form {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .alert{
+      color: red;
+    }
+    form{
+      height: 400px;
+    }
+  </style>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container">
+    <h1 style="">Students Table</h1>
+    <form>
+      <label for="name" class="form-label">Name:</label><input type="text" id="name" class="form-control">
+      <div class="alert alert1"></div>
+      <label for="surname" class="form-label">Surname:</label><input type="text" id="surname" class="form-control">
+      <div class="alert alert2"></div>
+      <label for="age" class="form-label">Age:</label><input type="text" id="age" class="form-control">
+      <div class="alert alert3"></div>
+
+    </form>
+    <br>
+    <button class="btn btn-primary" style="float: right; width:200px" onclick="print()">Add</button>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Surname</th>
+          <th scope="col">Age</th>
+        </tr>
+      </thead>
+      <tbody id="dataTable">
+      </tbody>
+    </table>
+  </div>
+</body>
+
+</html>
+<script>
+  function print() {
+    var element1 = document.getElementById("dataTable");
+    let name = document.querySelector("#name").value;
+    let surname = document.querySelector("#surname").value;
+    let age = document.querySelector("#age").value;
+  
+    if (name.trim() == "") {
+      let alert1=document.querySelector(".alert1");
+      alert1.innerHTML="Name is required!";
+      return;
+    }
+    else if(surname.trim() == ""){
+      let alert2=document.querySelector(".alert2");
+      alert2.innerHTML="surname is required!";
+      let alert1=document.querySelector(".alert1");
+      alert1.innerHTML="";
+      return;
+    }
+    else if(age.trim() == ""){
+      let alert3=document.querySelector(".alert3");
+      alert3.innerHTML="age is required!";
+      let alert2=document.querySelector(".alert2");
+      alert2.innerHTML="";
+      return;
+    }
+    else{
+      let alert1=document.querySelector(".alert1");
+      alert1.innerHTML="";
+      let alert3=document.querySelector(".alert3");
+      alert3.innerHTML="";
+      let alert2=document.querySelector(".alert2");
+      alert2.innerHTML="";
+    }
+    element1.innerHTML += `<tr>  <td>${name}</td>` + `<td>${surname}</td>` + `<td>${age}</td> </tr>`;
+  }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
