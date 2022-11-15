@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\c# dersleri\even numbers sum\bin\Debug\net6.0\even numbers sum.exe
+C:\Users\user\Desktop\c# dersleri\even numbers sum\bin\Debug\net6.0\even numbers sum.deps.json
+C:\Users\user\Desktop\c# dersleri\even numbers sum\bin\Debug\net6.0\even numbers sum.runtimeconfig.json
+C:\Users\user\Desktop\c# dersleri\even numbers sum\bin\Debug\net6.0\even numbers sum.dll
+C:\Users\user\Desktop\c# dersleri\even numbers sum\bin\Debug\net6.0\even numbers sum.pdb
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.AssemblyInfo.cs
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.dll
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\refint\even numbers sum.dll
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.pdb
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\even numbers sum.genruntimeconfig.cache
+C:\Users\user\Desktop\c# dersleri\even numbers sum\obj\Debug\net6.0\ref\even numbers sum.dll
