@@ -9,14 +9,12 @@
 </head>
 
 <body>
-
-
-
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script>
         fetch('https://jsonplaceholder.typicode.com/todos/1')
             .then(response => response.json())
             .then(json => console.log(json))
+            
         axios.get('https://jsonplaceholder.typicode.com/todos/1')
             .then(function (response) {
                 // handle success
@@ -27,14 +25,14 @@
                 console.log(error);
             })
 
-            axios({
-                method: 'get',
-                url: 'https://jsonplaceholder.typicode.com/todos/1',
-                responseType: 'stream'
-              })
-                .then(function (response) {
-                  console.log(response);
-                });
+        axios({
+            method: 'get',
+            url: 'https://jsonplaceholder.typicode.com/todos/1',
+            responseType: 'stream'
+        })
+            .then(function (response) {
+                console.log(response);
+            });
     </script>
 </body>
 
