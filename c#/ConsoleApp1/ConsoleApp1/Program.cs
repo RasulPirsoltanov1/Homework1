@@ -3,7 +3,7 @@
 
     public static void Resizenum(ref int[] arr, int num)
     {
-        int[] res = new int[num+1];
+        int[] res = new int[arr.Length+1];
         for (int i = 0; i < 1+arr.Length; i++)
         {
             if (arr.Length > i)
