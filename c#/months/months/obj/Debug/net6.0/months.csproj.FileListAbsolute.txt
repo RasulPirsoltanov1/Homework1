@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\c#\months\months\bin\Debug\net6.0\months.exe
+C:\Users\ClassTime\Desktop\c#\months\months\bin\Debug\net6.0\months.deps.json
+C:\Users\ClassTime\Desktop\c#\months\months\bin\Debug\net6.0\months.runtimeconfig.json
+C:\Users\ClassTime\Desktop\c#\months\months\bin\Debug\net6.0\months.dll
+C:\Users\ClassTime\Desktop\c#\months\months\bin\Debug\net6.0\months.pdb
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.dll
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\refint\months.dll
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.pdb
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\months.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\c#\months\months\obj\Debug\net6.0\ref\months.dll
