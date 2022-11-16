@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addresizearray", "addresizearray\addresizearray.csproj", "{7498089A-7046-4FAE-8692-0C885479CF5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7498089A-7046-4FAE-8692-0C885479CF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7498089A-7046-4FAE-8692-0C885479CF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7498089A-7046-4FAE-8692-0C885479CF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7498089A-7046-4FAE-8692-0C885479CF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7AF0C2-8A55-4044-98A2-6B85C800DD5C}
+	EndGlobalSection
+EndGlobal

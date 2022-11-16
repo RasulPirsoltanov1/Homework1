@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\bin\Debug\net6.0\addresizearray.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\bin\Debug\net6.0\addresizearray.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\bin\Debug\net6.0\addresizearray.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\bin\Debug\net6.0\addresizearray.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\bin\Debug\net6.0\addresizearray.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\refint\addresizearray.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\addresizearray.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\addresizearray\addresizearray\obj\Debug\net6.0\ref\addresizearray.dll
