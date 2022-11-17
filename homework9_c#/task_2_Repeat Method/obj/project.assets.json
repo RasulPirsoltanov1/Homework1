@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\Repeat Method\\Repeat Method.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\homework9_c#\\task_2_Repeat Method\\Repeat Method.csproj",
       "projectName": "Repeat Method",
-      "projectPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\Repeat Method\\Repeat Method.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\homework9_c#\\task_2_Repeat Method\\Repeat Method.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\Repeat Method\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\homework9_c#\\task_2_Repeat Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

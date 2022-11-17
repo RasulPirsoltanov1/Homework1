@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\bin\Debug\net6.0\switch_case_expression_example.exe
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\bin\Debug\net6.0\switch_case_expression_example.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\bin\Debug\net6.0\switch_case_expression_example.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\bin\Debug\net6.0\switch_case_expression_example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\bin\Debug\net6.0\switch_case_expression_example.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\refint\switch_case_expression_example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\switch_case_expression_example.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\switch_case_expression_example\obj\Debug\net6.0\ref\switch_case_expression_example.dll
