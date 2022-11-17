@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area size methods", "Area size methods.csproj", "{2E8B4345-935C-48EE-A57E-567D507BECB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8B4345-935C-48EE-A57E-567D507BECB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8B4345-935C-48EE-A57E-567D507BECB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8B4345-935C-48EE-A57E-567D507BECB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8B4345-935C-48EE-A57E-567D507BECB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111FAD1D-B6EC-4121-BDBB-15616F926361}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\bin\Debug\net6.0\Method1.exe
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\bin\Debug\net6.0\Method1.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\bin\Debug\net6.0\Method1.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\bin\Debug\net6.0\Method1.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\bin\Debug\net6.0\Method1.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\refint\Method1.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\Method1.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Method1\obj\Debug\net6.0\ref\Method1.dll

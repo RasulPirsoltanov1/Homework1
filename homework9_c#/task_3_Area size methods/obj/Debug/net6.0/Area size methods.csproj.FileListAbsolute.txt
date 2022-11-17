@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\bin\Debug\net6.0\Area size methods.exe
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\bin\Debug\net6.0\Area size methods.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\bin\Debug\net6.0\Area size methods.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\bin\Debug\net6.0\Area size methods.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\bin\Debug\net6.0\Area size methods.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\refint\Area size methods.dll
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\Area size methods.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\Area size methods\obj\Debug\net6.0\ref\Area size methods.dll
