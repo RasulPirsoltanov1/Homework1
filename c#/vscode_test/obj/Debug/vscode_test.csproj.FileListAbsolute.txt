@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\bin\Debug\vscode_test.exe.config
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\bin\Debug\vscode_test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\bin\Debug\vscode_test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\obj\Debug\vscode_test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\obj\Debug\vscode_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\obj\Debug\vscode_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\obj\Debug\vscode_test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\vscode_test\obj\Debug\vscode_test.pdb
