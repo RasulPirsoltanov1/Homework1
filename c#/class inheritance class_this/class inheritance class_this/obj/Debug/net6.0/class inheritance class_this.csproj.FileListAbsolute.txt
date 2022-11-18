@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\bin\Debug\net6.0\class inheritance class_this.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\bin\Debug\net6.0\class inheritance class_this.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\bin\Debug\net6.0\class inheritance class_this.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\bin\Debug\net6.0\class inheritance class_this.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\bin\Debug\net6.0\class inheritance class_this.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\refint\class inheritance class_this.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\class inheritance class_this.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\class inheritance class_this\class inheritance class_this\obj\Debug\net6.0\ref\class inheritance class_this.dll

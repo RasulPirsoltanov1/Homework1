@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EY+2/UuIHQ0iTdLwwH4nt2Hgwpee6c+4merGMKe8Ts9nqGBNTpNLlc8zjw4dnbPKL7/CmhxXjnitZ6e3tCuL4g==",
+=======
+  "dgSpecHash": "2IJjvOdG2wRCuz41NwxgV2EwTzxnHq+1NmFQeEkS2BevwNbrNJ6dUzh6PCPcSFgLKcbi4lULCgwO8bM7PP0Vug==",
+>>>>>>> 1456a9ef649969b3f82c04f52d1b8434143af3c0
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [],

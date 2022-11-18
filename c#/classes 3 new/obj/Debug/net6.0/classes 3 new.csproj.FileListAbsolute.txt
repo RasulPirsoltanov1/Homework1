@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\bin\Debug\net6.0\classes 3 new.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\bin\Debug\net6.0\classes 3 new.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\bin\Debug\net6.0\classes 3 new.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\bin\Debug\net6.0\classes 3 new.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\bin\Debug\net6.0\classes 3 new.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\refint\classes 3 new.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\classes 3 new.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes 3 new\obj\Debug\net6.0\ref\classes 3 new.dll
