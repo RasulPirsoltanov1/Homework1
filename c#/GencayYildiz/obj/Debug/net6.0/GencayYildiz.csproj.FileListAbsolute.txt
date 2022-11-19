@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\bin\Debug\net6.0\GencayYildiz.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\bin\Debug\net6.0\GencayYildiz.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\bin\Debug\net6.0\GencayYildiz.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\bin\Debug\net6.0\GencayYildiz.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\bin\Debug\net6.0\GencayYildiz.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\refint\GencayYildiz.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\GencayYildiz.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\GencayYildiz\obj\Debug\net6.0\ref\GencayYildiz.dll

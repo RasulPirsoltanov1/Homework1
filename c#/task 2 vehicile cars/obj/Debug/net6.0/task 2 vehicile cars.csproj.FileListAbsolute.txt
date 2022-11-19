@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\bin\Debug\net6.0\task 2 vehicile cars.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\bin\Debug\net6.0\task 2 vehicile cars.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\bin\Debug\net6.0\task 2 vehicile cars.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\bin\Debug\net6.0\task 2 vehicile cars.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\bin\Debug\net6.0\task 2 vehicile cars.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\refint\task 2 vehicile cars.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\task 2 vehicile cars.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task 2 vehicile cars\obj\Debug\net6.0\ref\task 2 vehicile cars.dll

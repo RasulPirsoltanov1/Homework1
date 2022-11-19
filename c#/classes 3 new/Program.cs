@@ -6,7 +6,6 @@
 Console.Write("input product count: ");
 int count = int.Parse(Console.ReadLine());
 Book[] arrBook = new Book[count];
-
 for (int i = 0; i < arrBook.Length; i++)
 {
     Console.WriteLine("*********************Next product**********************\n");
@@ -22,7 +21,6 @@ for (int i = 0; i < arrBook.Length; i++)
 }
 Console.WriteLine("*********************Exited loop**********************\n");
 getProcess(arrBook);
-
 void getProcess(Book[] arr)
 {
     bool checker = true;
