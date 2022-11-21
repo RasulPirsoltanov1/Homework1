@@ -186,24 +186,35 @@
 
 
 
-class program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(Join(',', 12, 54, 34));
-    }
-    public static string Join(char char1, params int[] array)
-    {
-        string result = string.Empty;
-        for (int i = 0; i < array.Length; i++)
-        {
+//class program
+//{
+//    public static void Main(string[] args)
+//    {
+//        Console.WriteLine(Join(',', 12, 54, 34));
+//    }
+//    public static string Join(char char1, params int[] array)
+//    {
+//        string result = string.Empty;
+//        for (int i = 0; i < array.Length; i++)
+//        {
 
-            result = result + array[i];
-            if (i < array.Length - 1)
-            {
-                result = result + char1;
-            }
-        }
-        return result;
+//            result = result + array[i];
+//            if (i < array.Length - 1)
+//            {
+//                result = result + char1;
+//            }
+//        }
+//        return result;
+//    }
+//}
+
+
+
+class Program
+{
+    public static void Main()
+    {
+
     }
+    
 }

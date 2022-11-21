@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ClassTime\\Desktop\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj": {}
+    "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ClassTime\\Desktop\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj": {
+    "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ClassTime\\Desktop\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj",
         "projectName": "in class inheritance in classroom",
-        "projectPath": "C:\\Users\\ClassTime\\Desktop\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj",
-        "packagesPath": "C:\\Users\\ClassTime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ClassTime\\Desktop\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\in class inheritance in classroom.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\in class inheritance in classroom\\in class inheritance in classroom\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ClassTime\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\bin\Debug\net6.0\task1.1 class fields.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\bin\Debug\net6.0\task1.1 class fields.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\bin\Debug\net6.0\task1.1 class fields.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\bin\Debug\net6.0\task1.1 class fields.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\bin\Debug\net6.0\task1.1 class fields.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\refint\task1.1 class fields.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\task1.1 class fields.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\task1.1 class fields\obj\Debug\net6.0\ref\task1.1 class fields.dll

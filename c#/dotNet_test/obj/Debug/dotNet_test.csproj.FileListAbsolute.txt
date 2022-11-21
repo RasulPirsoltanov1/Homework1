@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\bin\Debug\dotNet_test.exe.config
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\bin\Debug\dotNet_test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\bin\Debug\dotNet_test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\obj\Debug\dotNet_test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\obj\Debug\dotNet_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\obj\Debug\dotNet_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\obj\Debug\dotNet_test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\dotNet_test\obj\Debug\dotNet_test.pdb
