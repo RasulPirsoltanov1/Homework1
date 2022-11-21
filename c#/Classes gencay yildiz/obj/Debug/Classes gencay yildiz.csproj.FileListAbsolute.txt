@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\bin\Debug\Classes gencay yildiz.exe.config
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\bin\Debug\Classes gencay yildiz.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\bin\Debug\Classes gencay yildiz.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\obj\Debug\Classes gencay yildiz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\obj\Debug\Classes gencay yildiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\obj\Debug\Classes gencay yildiz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\obj\Debug\Classes gencay yildiz.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Classes gencay yildiz\obj\Debug\Classes gencay yildiz.pdb
