@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Classroom task2/1.0.0": {
+        "runtime": {
+          "Classroom task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classroom task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
