@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\bin\Debug\net6.0\StringBuilder Replace method.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\bin\Debug\net6.0\StringBuilder Replace method.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\bin\Debug\net6.0\StringBuilder Replace method.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\bin\Debug\net6.0\StringBuilder Replace method.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\bin\Debug\net6.0\StringBuilder Replace method.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\refint\StringBuilder Replace method.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\StringBuilder Replace method.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StringBuilder Replace method\obj\Debug\net6.0\ref\StringBuilder Replace method.dll

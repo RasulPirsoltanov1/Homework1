@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\refint\Enums.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Enums\obj\Debug\net6.0\ref\Enums.dll

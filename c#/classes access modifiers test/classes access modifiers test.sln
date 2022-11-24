@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes access modifiers test", "classes access modifiers test.csproj", "{3FC0F098-2343-4B2C-BC73-90EF9EE7C106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleClass", "..\VehicleClass\VehicleClass.csproj", "{634E5233-BCB7-4BD5-B3A8-41D35DFB1463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC0F098-2343-4B2C-BC73-90EF9EE7C106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC0F098-2343-4B2C-BC73-90EF9EE7C106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC0F098-2343-4B2C-BC73-90EF9EE7C106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC0F098-2343-4B2C-BC73-90EF9EE7C106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634E5233-BCB7-4BD5-B3A8-41D35DFB1463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634E5233-BCB7-4BD5-B3A8-41D35DFB1463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634E5233-BCB7-4BD5-B3A8-41D35DFB1463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634E5233-BCB7-4BD5-B3A8-41D35DFB1463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850209D7-0C47-4ECA-BF23-27AC53FF8319}
+	EndGlobalSection
+EndGlobal

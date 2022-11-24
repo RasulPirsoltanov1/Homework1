@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\bin\Debug\net6.0\classes access modifiers test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\bin\Debug\net6.0\classes access modifiers test.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\bin\Debug\net6.0\classes access modifiers test.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\bin\Debug\net6.0\classes access modifiers test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\bin\Debug\net6.0\classes access modifiers test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\refint\classes access modifiers test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\classes access modifiers test.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\classes access modifiers test\obj\Debug\net6.0\ref\classes access modifiers test.dll
