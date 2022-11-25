@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\task_25.2022\bin\Debug\net6.0\task_25.2022.exe
+C:\Users\ClassTime\source\repos\task_25.2022\bin\Debug\net6.0\task_25.2022.deps.json
+C:\Users\ClassTime\source\repos\task_25.2022\bin\Debug\net6.0\task_25.2022.runtimeconfig.json
+C:\Users\ClassTime\source\repos\task_25.2022\bin\Debug\net6.0\task_25.2022.dll
+C:\Users\ClassTime\source\repos\task_25.2022\bin\Debug\net6.0\task_25.2022.pdb
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.dll
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\refint\task_25.2022.dll
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.pdb
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\task_25.2022.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\task_25.2022\obj\Debug\net6.0\ref\task_25.2022.dll
