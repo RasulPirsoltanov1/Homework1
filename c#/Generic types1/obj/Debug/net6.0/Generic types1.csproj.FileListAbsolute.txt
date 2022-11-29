@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\bin\Debug\net6.0\Generic types1.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\bin\Debug\net6.0\Generic types1.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\bin\Debug\net6.0\Generic types1.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\bin\Debug\net6.0\Generic types1.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\bin\Debug\net6.0\Generic types1.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\refint\Generic types1.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\Generic types1.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\Generic types1\obj\Debug\net6.0\ref\Generic types1.dll
