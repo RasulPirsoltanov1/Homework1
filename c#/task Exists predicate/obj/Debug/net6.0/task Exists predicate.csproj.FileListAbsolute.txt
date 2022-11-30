@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\bin\Debug\net6.0\task Exists predicate.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\bin\Debug\net6.0\task Exists predicate.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\bin\Debug\net6.0\task Exists predicate.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\bin\Debug\net6.0\task Exists predicate.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\bin\Debug\net6.0\task Exists predicate.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\refint\task Exists predicate.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\task Exists predicate.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\task Exists predicate\obj\Debug\net6.0\ref\task Exists predicate.dll
