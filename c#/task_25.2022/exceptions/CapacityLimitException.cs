@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace task_25._2022.exceptions
 {
-    internal class CapacityLimitException
+    internal class CapacityLimitException:Exception
     {
-        public CapacityLimitException()
+        public CapacityLimitException(string message):base(message)
         {
         }
     }

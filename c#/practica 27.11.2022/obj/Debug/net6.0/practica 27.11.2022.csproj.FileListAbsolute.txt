@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\bin\Debug\net6.0\practica 27.11.2022.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\bin\Debug\net6.0\practica 27.11.2022.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\bin\Debug\net6.0\practica 27.11.2022.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\bin\Debug\net6.0\practica 27.11.2022.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\bin\Debug\net6.0\practica 27.11.2022.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\refint\practica 27.11.2022.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\practica 27.11.2022.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\practica 27.11.2022\obj\Debug\net6.0\ref\practica 27.11.2022.dll
