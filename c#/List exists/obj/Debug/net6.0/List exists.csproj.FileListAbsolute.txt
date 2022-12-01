@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\bin\Debug\net6.0\List exists.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\bin\Debug\net6.0\List exists.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\bin\Debug\net6.0\List exists.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\bin\Debug\net6.0\List exists.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\bin\Debug\net6.0\List exists.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\refint\List exists.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\List exists.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\List exists\obj\Debug\net6.0\ref\List exists.dll

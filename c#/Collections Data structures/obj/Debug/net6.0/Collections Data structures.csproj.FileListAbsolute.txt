@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\bin\Debug\net6.0\Collections Data structures.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\bin\Debug\net6.0\Collections Data structures.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\bin\Debug\net6.0\Collections Data structures.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\bin\Debug\net6.0\Collections Data structures.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\bin\Debug\net6.0\Collections Data structures.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\refint\Collections Data structures.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\Collections Data structures.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Collections Data structures\obj\Debug\net6.0\ref\Collections Data structures.dll
