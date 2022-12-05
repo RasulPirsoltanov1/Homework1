@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\bin\Debug\net6.0\test solid.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\bin\Debug\net6.0\test solid.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\bin\Debug\net6.0\test solid.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\bin\Debug\net6.0\test solid.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\bin\Debug\net6.0\test solid.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\refint\test solid.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\test solid.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\test solid\obj\Debug\net6.0\ref\test solid.dll
