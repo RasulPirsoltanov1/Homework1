@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\bin\Debug\net6.0\1_cs_abstract_pattern.exe
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\bin\Debug\net6.0\1_cs_abstract_pattern.deps.json
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\bin\Debug\net6.0\1_cs_abstract_pattern.runtimeconfig.json
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\bin\Debug\net6.0\1_cs_abstract_pattern.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\bin\Debug\net6.0\1_cs_abstract_pattern.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\refint\1_cs_abstract_pattern.dll
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.pdb
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\1_cs_abstract_pattern.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\Homework1\c#\1_cs_abstract_pattern\obj\Debug\net6.0\ref\1_cs_abstract_pattern.dll
