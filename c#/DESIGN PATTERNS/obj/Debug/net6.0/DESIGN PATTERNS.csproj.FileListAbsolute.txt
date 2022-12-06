@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\bin\Debug\net6.0\DESIGN PATTERNS.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\bin\Debug\net6.0\DESIGN PATTERNS.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\bin\Debug\net6.0\DESIGN PATTERNS.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\bin\Debug\net6.0\DESIGN PATTERNS.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\bin\Debug\net6.0\DESIGN PATTERNS.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\refint\DESIGN PATTERNS.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\DESIGN PATTERNS.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DESIGN PATTERNS\obj\Debug\net6.0\ref\DESIGN PATTERNS.dll

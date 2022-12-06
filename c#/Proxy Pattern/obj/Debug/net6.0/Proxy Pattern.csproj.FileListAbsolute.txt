@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\bin\Debug\net6.0\Proxy Pattern.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\bin\Debug\net6.0\Proxy Pattern.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\bin\Debug\net6.0\Proxy Pattern.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\bin\Debug\net6.0\Proxy Pattern.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\bin\Debug\net6.0\Proxy Pattern.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\refint\Proxy Pattern.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\Proxy Pattern.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Proxy Pattern\obj\Debug\net6.0\ref\Proxy Pattern.dll

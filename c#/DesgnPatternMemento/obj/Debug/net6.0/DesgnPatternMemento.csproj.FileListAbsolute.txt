@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\bin\Debug\net6.0\DesgnPatternMemento.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\bin\Debug\net6.0\DesgnPatternMemento.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\bin\Debug\net6.0\DesgnPatternMemento.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\bin\Debug\net6.0\DesgnPatternMemento.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\bin\Debug\net6.0\DesgnPatternMemento.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\refint\DesgnPatternMemento.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\DesgnPatternMemento.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\DesgnPatternMemento\obj\Debug\net6.0\ref\DesgnPatternMemento.dll

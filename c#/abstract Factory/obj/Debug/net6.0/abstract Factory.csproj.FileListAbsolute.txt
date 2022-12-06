@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\bin\Debug\net6.0\abstract Factory.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\bin\Debug\net6.0\abstract Factory.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\bin\Debug\net6.0\abstract Factory.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\bin\Debug\net6.0\abstract Factory.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\bin\Debug\net6.0\abstract Factory.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\refint\abstract Factory.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\abstract Factory.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\abstract Factory\obj\Debug\net6.0\ref\abstract Factory.dll
