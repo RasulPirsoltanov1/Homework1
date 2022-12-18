@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "File Folder operations/1.0.0": {
+        "runtime": {
+          "File Folder operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "File Folder operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\bin\Debug\net6.0\Json_test.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\bin\Debug\net6.0\Json_test.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\bin\Debug\net6.0\Json_test.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\bin\Debug\net6.0\Json_test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\bin\Debug\net6.0\Json_test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\refint\Json_test.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\Json_test.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Json_test\obj\Debug\net6.0\ref\Json_test.dll

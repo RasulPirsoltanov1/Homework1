@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLdy/xgPJRmhA4ejWjY7zewokacueW3+7/oMxoy2SsqcKy5fPmurs7xNPfYVArYfVXP+yy1d/6Y+1ehajoaGKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\StramRead and SreamWrite\\StramRead and SreamWrite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\bin\Debug\net6.0\Asynchron Programing.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\bin\Debug\net6.0\Asynchron Programing.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\bin\Debug\net6.0\Asynchron Programing.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\bin\Debug\net6.0\Asynchron Programing.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\bin\Debug\net6.0\Asynchron Programing.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\refint\Asynchron Programing.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\Asynchron Programing.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\Asynchron Programing\obj\Debug\net6.0\ref\Asynchron Programing.dll

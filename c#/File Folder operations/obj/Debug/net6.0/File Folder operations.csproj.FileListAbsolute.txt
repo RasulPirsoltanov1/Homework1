@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\bin\Debug\net6.0\File Folder operations.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\bin\Debug\net6.0\File Folder operations.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\bin\Debug\net6.0\File Folder operations.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\bin\Debug\net6.0\File Folder operations.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\bin\Debug\net6.0\File Folder operations.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\refint\File Folder operations.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\File Folder operations.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\File Folder operations\obj\Debug\net6.0\ref\File Folder operations.dll

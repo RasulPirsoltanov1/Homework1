@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\StramRead and SreamWrite.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\StramRead and SreamWrite.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\StramRead and SreamWrite.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\StramRead and SreamWrite.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\StramRead and SreamWrite.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\refint\StramRead and SreamWrite.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\ref\StramRead and SreamWrite.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\StramRead and SreamWrite\obj\Debug\net6.0\StramRead and SreamWrite.csproj.CopyComplete

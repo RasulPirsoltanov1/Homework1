@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpL46+ivcnXKC4L2RuNm0fETECwNavXLgrb5t815mcCDQs+qQe6iteT3m6h7OO6VaUNR/nQXwRMP1dczVUwR6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework1\\c#\\Object to Json\\Object to Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

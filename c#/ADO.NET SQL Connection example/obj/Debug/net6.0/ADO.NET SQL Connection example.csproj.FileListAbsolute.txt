@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\ADO.NET SQL Connection example.exe
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\ADO.NET SQL Connection example.deps.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\ADO.NET SQL Connection example.runtimeconfig.json
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\ADO.NET SQL Connection example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\ADO.NET SQL Connection example.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.csproj.CopyComplete
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\refint\ADO.NET SQL Connection example.dll
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.pdb
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ADO.NET SQL Connection example.genruntimeconfig.cache
+C:\Users\user\Desktop\Homeworks\Homework1\c#\ADO.NET SQL Connection example\obj\Debug\net6.0\ref\ADO.NET SQL Connection example.dll

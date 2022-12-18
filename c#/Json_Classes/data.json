@@ -1,0 +1,27 @@
+{
+  "Id": 1,
+  "Items": [
+    {
+      "Id": 1,
+      "Product": {
+        "Id": 1,
+        "Name": "Iphone 14 pro max",
+        "Stock": 234,
+        "Price": 2699.0
+      },
+      "Count": 1,
+      "Price": 231.0
+    },
+    {
+      "Id": 2,
+      "Product": {
+        "Id": 2,
+        "Name": "Samsung s20",
+        "Stock": 74,
+        "Price": 4699.0
+      },
+      "Count": 3,
+      "Price": 3193.0
+    }
+  ]
+}
